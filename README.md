@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* make e-commerce site using solidus gem
 * ...
